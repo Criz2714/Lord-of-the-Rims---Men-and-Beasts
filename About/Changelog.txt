@@ -1,0 +1,23 @@
+# Changelog for LordoftheRimsMenAndBeasts
+
+1.4.1 - Mod updated for 1.4 and passed autotests.
+Used DeepL to update translations for ChineseSimplified, French, German, Russian
+
+
+1.0.6.0 - Fixed wrong inheritance for helmets, they should now be smithable instead of machinable
+
+
+1.0.5.0 - Removed graphic apparel detour as it was conflicting with stuff
+
+
+1.0.4.0 - Updated for 1.3
+
+
+1.0.3.0 - Techlevel lowered to Medieval, backstories changed to tribal
+
+
+1.0.2.0 - Added peaceful faction-group to support Hospitality-mod
+
+
+1.0.1.0 - Updated to 1.2
+
