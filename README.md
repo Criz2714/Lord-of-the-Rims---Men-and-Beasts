@@ -2,16 +2,14 @@
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
-Update of Jecrells mod
+Update/fork of Jecrells mod
 https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Men-and-Beasts
 
-- This is an unofficial port
-- This will be removed when/if Jecrell comes back
-- Techlevel lowered to Medieval, backstories changed to tribal
+- This is an unofficial update/fork
 
 This mod is not really a finished work and only includes the Gondor faction and some beasts/monsters.
 It was however requested to be published. 
-If it gets more work done by the original team I will update this release as well.
+If it gets more work done by the original team I will most likely update this release as well.
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
