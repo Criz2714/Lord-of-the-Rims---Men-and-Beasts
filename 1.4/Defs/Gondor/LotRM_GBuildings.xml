@@ -5,7 +5,7 @@
     <defName>LotRM_GBeaconLit</defName>
     <label>Lit Rallying Beacon</label>
     <description>A rallying beacon that can summon an ally to aid you in a time of strife. It is single use.</description>
-    <thingClass>MenAndBeasts.Building_Beacon</thingClass>
+    <!-- <thingClass>MenAndBeasts.Building_Beacon</thingClass> -->
     <category>Building</category>
     <graphicData>
       <texPath>Things/Building/trisscarBeacon</texPath>
@@ -70,7 +70,7 @@
     <defName>LotRM_GBeacon</defName>
     <label>Rallying Beacon</label>
     <description>A rallying beacon that can summon an ally to aid you in a time of strife. It is single use.</description>
-    <thingClass>MenAndBeasts.Building_BeaconUnlit</thingClass>
+    <!-- <thingClass>MenAndBeasts.Building_BeaconUnlit</thingClass> -->
     <category>Building</category>
     <graphicData>
       <texPath>Things/Building/trisscarBeacon</texPath>
