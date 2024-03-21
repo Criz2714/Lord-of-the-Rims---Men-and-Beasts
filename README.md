@@ -1,33 +1,31 @@
 # LordoftheRimsMenAndBeasts
-
-![Image](https://i.imgur.com/buuPQel.png)
 
-Update/fork of Jecrells mod
-https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Men-and-Beasts
-
+![Image]https://i.imgur.com/F9Pv3pa.png
 - This is an unofficial update/fork
 
 This mod is not really a finished work and only includes the Gondor faction and some beasts/monsters.
-It was however requested to be published. 
-If it gets more work done by the original team I will most likely update this release as well.
-
-![Image](https://i.imgur.com/pufA0kM.png)
-
-	
-![Image](https://i.imgur.com/Z4GOv8H.png)
-
-Adds the various factions / equipment of Men and the supporting creatures of Middle-Earth.
-
-![Image](https://i.imgur.com/PwoNOj4.png)
+If it gets more work done by the original team I might update this release.
 
 
+![Image]https://i.imgur.com/9EUqtcn.png
+(content images wip)
 
+
+![Image]https://i.imgur.com/XzjgGHm.png
+Q: Is this safe to add or remove midgame?
+A: Yes its safe to add and should be safe to remove midgame.
+
+
+![Image]https://i.imgur.com/cEpnXyu.png
+A Fork of Jecrells mod 
+https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---Men-and-Beasts
+
+
+[img]https://i.imgur.com/yoI0PuL.png[/img]
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
--  For best support, please use the Discord-channel for error-reporting.
--  Do not report errors by making a discussion-thread, I get no notification of that.
--  If you have the solution for a problem, please post it to the GitHub repository.
+-  For best support, please use Discord for error-reporting.
+
 
 
 
