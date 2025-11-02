@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>[M3] [Fork] Lord of the Rims - Men and Beasts [1.4 - 1.5]</name>
+  <name>[M3] [Fork] Lord of the Rims - Men and Beasts [1.4 - 1.6]</name>
   <packageId>M3.Fork.LordOftheRimsMenAndBeasts</packageId>
   <author>mupe3, Jecrell</author>
   <url></url>
@@ -11,6 +11,7 @@
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+	<li>1.6</li>
   </supportedVersions>
 
 	<loadAfter>
@@ -21,6 +22,8 @@
 		<li>Ludeon.RimWorld.Royalty</li>
 		<li>Ludeon.RimWorld.Ideology</li>
 		<li>Ludeon.RimWorld.Biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
+		<li>ludeon.rimworld.odyssey</li>
 
 	</loadAfter>
 
@@ -31,13 +34,14 @@
 	</loadBefore>
 
   <description>
-
 [img]https://i.imgur.com/F9Pv3pa.png[/img]
 Lord of the Rims - Men and Beasts Adds equipment of Men and some creatures of Middle-Earth.
+Forked to remove dependencies
 
 
 [img]https://i.imgur.com/9EUqtcn.png[/img]
-(content images wip)
+i want to do better showcases but for now this will have to do
+[img]https://i.imgur.com/5Ccvmyy.png[/img]
 
 
 [img]https://i.imgur.com/XzjgGHm.png[/img]

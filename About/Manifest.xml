@@ -2,10 +2,4 @@
 <Manifest>
   <identifier>LordoftheRimsMenAndBeasts</identifier>
   <version>1.4.1</version>
-  <dependencies />
-  <incompatibleWith />
-  <loadBefore />
-  <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/emipa606/LordoftheRimsMenAndBeasts/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/LordoftheRimsMenAndBeasts/releases</downloadUri>
 </Manifest>
