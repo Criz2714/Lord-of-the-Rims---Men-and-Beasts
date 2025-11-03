@@ -146,7 +146,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Mumakil/sheidluaMumakil</texPath>
+          <texPath>Things/Pawn/Animal/Mumakil/sheidulaMumakil</texPath>
           <drawSize>3.8</drawSize>
           <shadowData>
             <volume>(0.6, 0.45, 0.45)</volume>
